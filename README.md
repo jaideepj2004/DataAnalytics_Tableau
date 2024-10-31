@@ -1,6 +1,7 @@
-# DataAnalytics_Tableau
-
 # Profit and Loss Dashboard Wireframe
+
+## Project Video
+[Watch the Project Video](https://drive.google.com/file/d/1xxYMVR1oZili8je_c_NNgSYtCTNTqIr9/view?usp=sharing)
 
 ## Overview
 This repository contains the wireframe document for the Profit and Loss Dashboard designed for Physics Wallah. The document outlines the layout, user interactions, design principles, and future enhancements for a comprehensive financial analysis tool.
